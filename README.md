@@ -1,3 +1,3 @@
-# hello-world
-print(Hello);
-print(This is Divya);
+Hii,
+I am Divya gupta.
+This is my first repository.
